@@ -1,6 +1,6 @@
 name: "actions-feishu"
 description: "Send message to FeiShu via Github Actions"
-author: "xiachufang"
+author: "fezhengjin"
 inputs:
   webhook:
     description: "Webhook address"
