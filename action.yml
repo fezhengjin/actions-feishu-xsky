@@ -1,5 +1,5 @@
-name: "actions-feishu"
-description: "Send message to FeiShu via Github Actions"
+name: "actions-feishu-xsky"
+description: "Fork from xiachufang/actions-feishu"
 author: "fezhengjin"
 inputs:
   webhook:
